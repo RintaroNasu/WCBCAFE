@@ -232,4 +232,27 @@ footer{
     .post-cat{
         margin-left: 80px;
     }
+
+    /* MENU */
+    .menu-contents{
+        margin-top: 20%;
+    }
 }
+/* MENU 
+ ---------------------------------- */
+#menu{
+    background-image: url(../images/menu-bg.jpg);
+    min-height: 100vh;
+}
+.menu-content{
+    max-width: 560px;
+    margin-top: 10%;
+}
+.menu-contents .page-title{
+text-align: center;
+}
+.menu-contents p{
+    font-size: 1.125rem;
+    margin: 10px 0 0;
+}
+
